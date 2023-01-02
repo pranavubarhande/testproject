@@ -15,7 +15,7 @@ class Tuple {
         itemset = s;
         support = i;	
     }
-}
+}//chancge
 class Apriori {
     static Set<Tuple> c;
     static Set<Tuple> l;
